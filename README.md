@@ -26,3 +26,6 @@
 - very, very simple Browser
 - Web git client
 - Frontend-Framework (from first principles) 
+
+### Projects:
+- learning-typescript (https://github.com/20gaLois17/learning-typescript)
