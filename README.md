@@ -6,6 +6,10 @@
 - Emulator (a very simple chip or architecture)
 - low-level/system-level Programmierung (c, rust)
 
+#### About Programming
+- playing with (and understanding) different programming paradigms (procedural, functional, object oriented)
+- design patterns and best practices
+
 #### Fun Stuff
 - (non serious) programming language
 - Games
@@ -27,5 +31,5 @@
 - Web git client
 - Frontend-Framework (from first principles) 
 
-### Projects:
+### Current Projects/Repositories:
 - learning-typescript (https://github.com/20gaLois17/learning-typescript)
